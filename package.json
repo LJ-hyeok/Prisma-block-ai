@@ -1,0 +1,14 @@
+{
+  "name": "prisma-block-puzzle",
+  "version": "1.0.0",
+  "description": "프리즈마 블록 — 8x8 그리드 웹 퍼즐 게임 & AI 오토파일럿",
+  "scripts": {
+    "dev": "vite --open /main.html",
+    "build": "vite build",
+    "preview": "vite preview --open /main.html"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
+
